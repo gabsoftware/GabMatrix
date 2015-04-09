@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GabMatrix", "GabMatrix\GabMatrix.vbproj", "{6B8809AE-EE2E-4723-A3FA-7D68F5AC9CE9}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GabMatrixTest", "GabMatrixTest\GabMatrixTest.vbproj", "{219C475C-EDA6-4112-89CD-AA914AB5C681}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B8809AE-EE2E-4723-A3FA-7D68F5AC9CE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8809AE-EE2E-4723-A3FA-7D68F5AC9CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8809AE-EE2E-4723-A3FA-7D68F5AC9CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8809AE-EE2E-4723-A3FA-7D68F5AC9CE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{219C475C-EDA6-4112-89CD-AA914AB5C681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219C475C-EDA6-4112-89CD-AA914AB5C681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219C475C-EDA6-4112-89CD-AA914AB5C681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219C475C-EDA6-4112-89CD-AA914AB5C681}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
